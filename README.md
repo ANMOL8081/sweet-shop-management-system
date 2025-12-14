@@ -78,6 +78,7 @@ npm
 
 📂 Project Structure
 sweet-shop-management-system/
+│sweet-shop-management-system/
 │
 ├── backend/
 │   ├── index.js
@@ -100,6 +101,7 @@ sweet-shop-management-system/
 │   └── package.json
 │
 └── README.md
+
 
 ⚙️ Setup & Run Instructions
 🔹 Prerequisites
